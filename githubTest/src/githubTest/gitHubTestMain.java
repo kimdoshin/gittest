@@ -6,6 +6,8 @@ public class gitHubTestMain {
 
 		System.out.println("Welcome gitHub Test!!");
 		
+		System.out.println("What is changed?");
+		
 	}
 
 }
